@@ -1,31 +1,28 @@
-<<<<<<< HEAD
-# Headphones Project
+# Headphones Webpage
 
-This project is an HTML/CSS mockup based on a design provided through Figma. It demonstrates the fundamental principles of modern web development, including responsive design and user interactions.
+This project is a responsive webpage designed for showcasing headphones, following a Figma design. The webpage adapts seamlessly across devices and includes interactive elements for a modern user experience.
 
 ## Features
 
-- **Responsive Design:**
-  - The site adapts to screens with a width of 480px or less.
+- **Responsive Design**: Automatically adjusts to mobile devices with a screen width of 480px or less.
+- **Interactive Elements**:
+  - Links change to a hover/active color of `#FF6565`.
+  - Buttons reduce opacity to `0.9` on hover/active states.
+- **Content Layout**: The main content is centered on the page with a maximum width of 1000px.
+- **Custom Fonts**: Includes the use of `Source Sans Pro` and `Spin Cycle OT` fonts for a sleek and professional look.
 
-- **User Interactions:**
-  - Link hover and active states: color `#FF6565`.
-  - Button hover and active states: reduced opacity to `0.9`.
+## Design Details
 
-- **Layout:**
-  - Centered content with a maximum width of 1000px.
+- Figma Design: [Link to Figma Design](https://www.figma.com)
+- Fonts:
+  - [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
+  - [Spin Cycle OT](https://example.com)
+- Colors:
+  - Link hover/active: `#FF6565`
+  - Button hover/active: `opacity: 0.9`
 
-## Technologies Used
+## Installation
 
-- **HTML5:** Page structure.
-- **CSS3:** Design and interactions.
-- **Figma:** Design reference.
-
-## Installation Instructions
-
-1. Clone this GitHub repository:
+1. Clone this repository:
    ```bash
-   git clone https://github.com/Mohamed-gif13/alx_html_css.git
-=======
-# alx_html_css
->>>>>>> e073a2c00a40b8054db1dd9b0121fd0155d899d9
+   git clone https://github.com/yourusername/alx_html_css.git

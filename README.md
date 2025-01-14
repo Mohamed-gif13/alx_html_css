@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Headphones Project
 
 This project is an HTML/CSS mockup based on a design provided through Figma. It demonstrates the fundamental principles of modern web development, including responsive design and user interactions.
@@ -25,3 +26,6 @@ This project is an HTML/CSS mockup based on a design provided through Figma. It 
 1. Clone this GitHub repository:
    ```bash
    git clone https://github.com/Mohamed-gif13/alx_html_css.git
+=======
+# alx_html_css
+>>>>>>> e073a2c00a40b8054db1dd9b0121fd0155d899d9
